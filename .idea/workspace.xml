@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a90c2d0b-55bd-403f-993a-301fa25009c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/PayDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/PayDay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,7 @@
     "TestNG.PayDayTest.test1deductTax.executor": "Run",
     "TestNG.PayDayTest.test1formatDollars.executor": "Run",
     "TestNG.PayDayTest.test2deductTax.executor": "Run",
+    "TestNG.PayDayTest.test2formatDollars.executor": "Run",
     "TestNG.PayDayTest.test2grossPay.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
